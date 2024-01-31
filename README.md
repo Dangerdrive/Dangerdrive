@@ -9,7 +9,7 @@ I am pharmacist that used to work with regulatory affairs and now I am learning 
 -->
 # About Me
 
-Hello! I'm [Your Name], a pharmacist transitioning into the world of software development. My journey began in the field of regulatory affairs, where I honed my attention to detail and analytical skills. Now, I'm channeling that experience into coding, embracing the challenges and creativity it offers.
+Hello! I'm Felippe, a pharmacist transitioning into the world of software development. My journey began in the field of regulatory affairs, where I honed my attention to detail and analytical skills. Now, I'm channeling that experience into coding, embracing the challenges and creativity it offers.
 
 ## Transitioning to Tech
 
