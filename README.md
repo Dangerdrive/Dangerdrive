@@ -17,10 +17,9 @@ I've embarked on a new chapter at 42 São Paulo, a coding school renowned for it
 
 ## Current Projects
 
-Currently, I'm diving into the intricacies of algorithms with the **push_swap** project. This project is a fantastic exploration of sorting algorithms, where the challenge is to sort a list of numbers using two stacks as efficiently as possible.
+Currently, I'm diving into the intricacies of algorithms with the [**push_swap**](https://github.com/Dangerdrive/push_swap) project. This project is a fantastic exploration of sorting algorithms, where the challenge is to sort a list of numbers using two stacks as efficiently as possible.
 
-Check out my push_swap project here: [push_swap](https://github.com/Dangerdrive/push_swap)
-![Push Swap](./images/push_swapn.png "Push Swap")(github.com/Dangerdrive/push_swap)
+[![Push Swap](./images/push_swapn.png "Push Swap")](github.com/Dangerdrive/push_swap)
 
 
 ## Looking Ahead
@@ -33,13 +32,13 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 
 
 ## Previous projects from 42 São Paulo:
-![Piscine](./images/Piscine.png "Piscine")(github.com/Dangerdrive/piscine)
-![Libft](./images/libftm.png "Libft")(github.com/Dangerdrive/libft)
-![Get Next Line](./images/get_next_linem.png "Get Next Line")(github.com/Dangerdrive/get_next_line)
-![Ft Printf](./images/ft_printfm.png "Ft Printf")(github.com/Dangerdrive/ft_printf)
-![Born2BeRoot](./images/born2berootm.png "Born2BeRoot")(github.com/Dangerdrive/born2beroot)
-![Fract-ol](./images/fract-olm.png "Fract-ol")(github.com/Dangerdrive/fract-ol)
-![Pipex](./images/pipexm.png "Pipex")(github.com/Dangerdrive/pipex)
+[![Piscine](./images/42projects/Piscine.png "Piscine")](github.com/Dangerdrive/piscine)
+[![Libft](./images/42projects/libftm.png "Libft")](github.com/Dangerdrive/libft)
+[![Get Next Line](./images/42projects/get_next_linem.png "Get Next Line")](github.com/Dangerdrive/get_next_line)
+[![Ft Printf](./images/42projects/ft_printfm.png "Ft Printf")](github.com/Dangerdrive/ft_printf)
+[![Born2BeRoot](./images/42projects/born2berootm.png "Born2BeRoot")](github.com/Dangerdrive/born2beroot)
+[![Fract-ol](./images/42projects/fract-olm.png "Fract-ol")](github.com/Dangerdrive/fract-ol)
+[![Pipex](./images/42projects/pipexm.png "Pipex")](github.com/Dangerdrive/pipex)
 
 
 
