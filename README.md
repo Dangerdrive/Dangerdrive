@@ -7,6 +7,8 @@ I am pharmacist that used to work with regulatory affairs and now I am learning 
 
 
 -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippealencar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felippealencar@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/272385620855357440)  
+#
 # About Me
 
 Hello! I'm Felippe, a pharmacist transitioning into the world of software development. My journey began in the field of regulatory affairs, where I honed my attention to detail and analytical skills. Now, I'm channeling that experience into coding, embracing the challenges and creativity it offers.
@@ -59,9 +61,6 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 ## GitHub Stats
 <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangerdrive&layout=compact&langs_count=12&theme=outrun"/>
 
-## Contacts
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippealencar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felippealencar@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/272385620855357440)  
 
 <!-- 
 TODO
