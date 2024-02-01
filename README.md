@@ -38,25 +38,46 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
   <img src="./images/42projects/Piscine.png" alt="Piscine" title="The C Piscine at 42 São Paulo (42SP) is both a bootcamp and a selective process for the software engineering training program." width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/libft">
-  <img src="./images/42projects/libftm.png" alt="Libft" title="Libft" width="100" height="100"/>
+  <img src="./images/42projects/libftm.png" alt="Libft" title="My C library" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/get_next_line">
-  <img src="./images/42projects/get_next_linem.png" alt="Get Next Line" title="Get Next Line" width="100" height="100"/>
+  <img src="./images/42projects/get_next_linem.png" alt="Read line by line from prompt in C" title="Get Next Line" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/ft_printf">
-  <img src="./images/42projects/ft_printfm.png" alt="Ft Printf" title="Ft Printf" width="100" height="100"/>
+  <img src="./images/42projects/ft_printfm.png" alt="Ft Printf" title="Recreation of printf in C" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/born2beroot">
-  <img src="./images/42projects/born2berootm.png" alt="Born2BeRoot" title="Born2BeRoot" width="100" height="100"/>
+  <img src="./images/42projects/born2berootm.png" alt="Born2BeRoot" title="System administration" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/fract-ol">
-  <img src="./images/42projects/fract-olm.png" alt="Fract-ol" title="Fract-ol" width="100" height="100"/>
+  <img src="./images/42projects/fract-olm.png" alt="Fract-ol" title="Graphics, math and psychedelia using C" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/pipex">
-  <img src="./images/42projects/pipexm.png" alt="Pipex" title="Pipex" width="100" height="100"/>
+  <img src="./images/42projects/pipexm.png" alt="Pipex" title="shell pipes" width="100" height="100"/>
 </a>
-<!-- Add the rest of your images similarly -->
 
+## GitHub Stats
+<img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangerdrive&layout=compact&langs_count=12&theme=outrun"/>
+
+## Contacts
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippealencar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felippealencar@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/272385620855357440)  
+
+<!-- 
+TODO
+create readme.md for projects:
+libft
+get_next_line
+ft_printf
+born2beroot-->
+
+<!-- 
+TODO
+fix links to projects:
+libft
+get_next_line
+ft_printf
+born2beroot-->
 
 
 
@@ -92,3 +113,12 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 
 
 -->
+
+
+<!--##Skills
+
+###Languages
+- **C** -> related projects [**related projects**](https://github.com/Dangerdrive/Dangerdrive/Projects/C)
+- <a href="https://github.com/Dangerdrive/ft_printf">
+  <img src="./images/42projects/ft_printfm.png" alt="Ft Printf" title="Recreation of printf in C" width="100" height="100"/>
+</a>
