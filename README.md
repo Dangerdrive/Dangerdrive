@@ -34,8 +34,8 @@ As I continue to bridge my past experiences with my newfound passion for coding,
 Feel free to connect with me on GitHub to follow my journey from pharmacy to programming!
 
 ## Previous projects from 42 São Paulo:
-<a href="https://github.com/Dangerdrive/piscine">
-  <img src="./images/42projects/Piscine.png" alt="Piscine" title="Piscine" width="100" height="100"/>
+<a href="https://github.com/Dangerdrive/C_Piscine_42">
+  <img src="./images/42projects/Piscine.png" alt="Piscine" title="The C Piscine at 42 São Paulo (42SP) is both a bootcamp and a selective process for the software engineering training program." width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/libft">
   <img src="./images/42projects/libftm.png" alt="Libft" title="Libft" width="100" height="100"/>
