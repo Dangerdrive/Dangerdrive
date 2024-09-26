@@ -30,11 +30,11 @@ I've embarked on a new chapter at 42 São Paulo, a coding school renowned for it
 
 ## Current Projects
 
-Currently, I'm diving into the intricacies of algorithms with the [**push_swap**](https://github.com/Dangerdrive/push_swap) project. This project is a fantastic exploration of sorting algorithms, where the challenge is to sort a list of numbers using two stacks as efficiently as possible.
+Currently, I'm delving into concurrency and synchronization challenges with the [**Philosophers**](https://github.com/Dangerdrive/philosophers) project. This project provides a deep dive into managing shared resources and ensuring proper synchronization between multiple threads, simulating the dining philosophers problem.
 
 <p align="center">
-  <a href="https://github.com/Dangerdrive/push_swap">
-    <img src="./images/42projects/push_swapn.png" alt="Push Swap" title="Push Swap" width="150" height="150"/>
+  <a href="https://github.com/Dangerdrive/philosophers">
+    <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Philosophers" width="150" height="150"/>
   </a>
 </p>
 
