@@ -66,7 +66,13 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
   <img src="./images/42projects/fract-olm.png" alt="Fract-ol" title="Graphics, math and psychedelia using C" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/pipex">
-  <img src="./images/42projects/pipexm.png" alt="Pipex" title="shell pipes" width="100" height="100"/>
+  <img src="./images/42projects/pipexm.png" alt="Pipex" title="Piping mechanism and command execution" width="100" height="100"/>
+</a>
+<a href="https://github.com/Dangerdrive/push_swap">
+  <img src="./images/42projects/push_swapn.png" alt="Push_swap" title="Push_swap" width="100" height="100"/>
+</a>
+<a href="https://github.com/Dangerdrive/minishell">
+  <img src="./images/42projects/minishelln.png" alt="minishell" title="a &#34 simple&#34 UNIX shell" width="100" height="100"/>
 </a>
 
 ## GitHub Stats
