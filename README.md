@@ -74,9 +74,6 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 <a href="https://github.com/Dangerdrive/minishell">
   <img src="./images/42projects/minishelln.png" alt="minishell" title="a &#34simple&#34 UNIX shell" width="100" height="100"/>
 </a>
-<a href="[https://github.com/Dangerdrive/minishell"](https://github.com/Dangerdrive/philosophers)>
-  <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Philosophers" width="100" height="100"/>
-</a>
 <a href="https://github.com/Dangerdrive/philosophers">
   <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Concurrency and synchronization challenges with threads" width="100" height="100"/>
 </a>
