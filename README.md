@@ -80,8 +80,8 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 <a href="https://github.com/Dangerdrive/philosophers">
   <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Concurrency and synchronization challenges with threads" width="100" height="100"/>
 </a>
-<a href="https://github.com/Dangerdrive/minirt">
-  <img src="./images/42projects/minirtn.png" alt="MiniRT" title="A small ray tracer project" width="100" height="100"/>
+<a href="https://github.com/Dangerdrive/cub3d">
+  <img src="./images/42projects/cub3dn.png" alt="Cub3d" title="A small ray tracer project" width="100" height="100"/>
 </a>
 <a href="https://github.com/Dangerdrive/netpractice">
   <img src="./images/42projects/netpracticen.png" alt="Netpractice" title="Basic networking fundamentals" width="100" height="100"/>
@@ -94,7 +94,7 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangerdrive&layout=compact&langs_count=12&theme=outrun"/>
 
 
-<!-- 
+<!--
 TODO
 create readme.md for projects:
 libft
@@ -102,7 +102,7 @@ get_next_line
 ft_printf
 born2beroot-->
 
-<!-- 
+<!--
 TODO
 fix links to projects:
 libft
