@@ -30,11 +30,11 @@ I've embarked on a new chapter at 42 São Paulo, a coding school renowned for it
 
 ## Current Projects
 
-Currently, I'm delving into concurrency and synchronization challenges with the [**Philosophers**](https://github.com/Dangerdrive/philosophers) project. This project provides a deep dive into managing shared resources and ensuring proper synchronization between multiple threads, simulating the dining philosophers problem.
+Currently, I'm working on the [**Inception**](https://github.com/Dangerdrive/inception) project. This project dives into containerization using **Docker**, teaching how to create, manage, and deploy containers in a Linux environment. It's an exciting step into modern DevOps practices, reinforcing the importance of reproducible environments and scalability.
 
 <p align="center">
-  <a href="https://github.com/Dangerdrive/philosophers">
-    <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Philosophers" width="150" height="150"/>
+  <a href="https://github.com/Dangerdrive/inception">
+    <img src="./images/42projects/inceptionn.png" alt="Inception" title="Inception" width="150" height="150"/>
   </a>
 </p>
 
@@ -74,6 +74,21 @@ Feel free to connect with me on GitHub to follow my journey from pharmacy to pro
 <a href="https://github.com/Dangerdrive/minishell">
   <img src="./images/42projects/minishelln.png" alt="minishell" title="a &#34simple&#34 UNIX shell" width="100" height="100"/>
 </a>
+<a href="[https://github.com/Dangerdrive/minishell"](https://github.com/Dangerdrive/philosophers)>
+  <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Philosophers" width="100" height="100"/>
+</a>
+<a href="https://github.com/Dangerdrive/philosophers">
+  <img src="./images/42projects/philosophersn.png" alt="Philosophers" title="Concurrency and synchronization challenges with threads" width="100" height="100"/>
+</a>
+<a href="https://github.com/Dangerdrive/minirt">
+  <img src="./images/42projects/minirtn.png" alt="MiniRT" title="A small ray tracer project" width="100" height="100"/>
+</a>
+<a href="https://github.com/Dangerdrive/netpractice">
+  <img src="./images/42projects/netpracticen.png" alt="Netpractice" title="Basic networking fundamentals" width="100" height="100"/>
+</a>
+<a href="https://github.com/Dangerdrive/ft_irc">
+  <img src="./images/42projects/ft_ircn.png" alt="Ft Irc" title="Implementing an IRC server in C++" width="100" height="100"/>
+</a>
 
 ## GitHub Stats
 <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangerdrive&layout=compact&langs_count=12&theme=outrun"/>
@@ -95,8 +110,7 @@ get_next_line
 ft_printf
 born2beroot-->
 
-
-
+![Inception](./images/inceptionn.png "Inception")
 <!--
 ![Philosophers](./images/philosophersn.png "Philosophers")
 ![MiniRT](./images/minirtn.png "MiniRT")
